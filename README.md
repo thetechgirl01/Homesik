@@ -1,5 +1,6 @@
 # Homesik
 <hr>
+
 ## This is a web app project for homsik the real estate company. This project is still a work-in-progress.
 <hr>
 
